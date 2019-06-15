@@ -28,10 +28,10 @@ sudo apt-get upgrade
 ##### 2. Install finger, a utility software to check users' status:
 ``sudo apt-get install finger``
 
-##### 3. Add new users grader and give permission to sudo for this user
+##### 3. Add new users grader and give permission to sudo addfor this user
 Create grader user:
 
-``sudo add user grader``
+``sudo adduser grader``
 
 Add sudo premission:
 
