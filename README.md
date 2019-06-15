@@ -1,11 +1,8 @@
 # LINUX SERVER CONFIGURATION PROJECT
-> by Paulina Grunwald
+> by Anil Mishra
 
-This course is a part of [Udacity's Full Stack Nanodegree Program](https://www.udacity.com/nanodegree).
+The task is to conduct a baseline installation of a Linux server and make it ready for hosting  a web applications. Also it has to be secured from many attack vectors, installed and configure a database server.
 
-My task in this project was to baseline installation of a Linux server and prepare it to host your web applications. I had to secure my server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.
-
-This project develops deep understanding of exactly what your web applications are doing, how they are hosted, and the interactions between multiple systems are what define you as a Full Stack Web Developer. In this project, I was  responsible for turning a brand-new, bare bones, Linux server into the secure and efficient web application host your applications need.
 
 ## Table of contents
 
@@ -17,9 +14,9 @@ This project develops deep understanding of exactly what your web applications a
 ## SSH Client info
 
 It's possible to connect to my instance using following address:
-IP address: 52.58.147.11
+IP address: 54.212.66.211
 Accessible SSH port: 2200
-
+sudo
 ## Project steps
 
 ##### 1. Update all currently installed packages.
